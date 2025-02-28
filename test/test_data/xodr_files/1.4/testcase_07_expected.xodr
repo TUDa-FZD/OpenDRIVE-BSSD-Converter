@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenDRIVE>
+    <header revMajor="1" revMinor="4" name="" version="1" date="2022-01-06T08:30:12" north="5.3639999389648438e+1" south="6.6399993896484375e+0" east="2.0000000000000000e+1" west="-9.0419998168945313e+1" vendor="MathWorks">
+        <userData>
+            <vectorScene program="RoadRunner" version="R2021b Update 1 (1.3.1.9e61748a97)"/>
+        </userData>
+    </header>
+    <road name="Road 0" length="3.4702949523925781e+1" id="0" junction="-1">
+        <link>
+            <successor elementType="road" elementId="1" contactPoint="start"/>
+        </link>
+        <type s="0.0000000000000000e+0" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+0" x="-7.0419998168945313e+1" y="3.0139999389648438e+1" hdg="0.0000000000000000e+0" length="3.4702949523925781e+1">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <elevation s="5.7861750793457034e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <elevation s="1.7353824920654297e+1" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <elevation s="1.7356175079345704e+1" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <elevation s="2.8923824920654297e+1" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="-4.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="-3.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="-3.0616900904347180e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="3.0622850446897223e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="3.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="3.4702949523925781e+1" t="-4.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="3.4702949523925781e+1" t="-3.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="3.4702949523925781e+1" t="-3.0616900904347180e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="3.4702949523925781e+1" t="3.0622850446897223e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="3.4702949523925781e+1" t="3.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <laneSection s="0.0000000000000000e+0" singleSide="false">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <successor id="1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+0" a="3.5000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="none" material="standard" color="white" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+0" max="4.0000000000000000e+1" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+0" laneId="{c5f4ed95-1765-479b-b91c-261fa9e6a3f6}" travelDir="backward">
+                                <successor id="1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <successor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+0" a="3.5000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="none" material="standard" color="white" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+0" max="4.0000000000000000e+1" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+0" laneId="{edce016d-bee2-40d5-856f-a29167cf006b}" travelDir="forward">
+                                <successor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="1"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+			<userData code="BSSD" value="BSSD_segments">
+				<segment sStart="0.0000000000000000e+00"> 
+					<right>
+						<lane id="-1">
+							<assignLaneOpenDRIVE>
+								<linkedLane sLaneSection="0.0000000000000000e+00" id="-1"/>
+							</assignLaneOpenDRIVE>
+							<behaviorAlong>
+								<boundary>
+								  <longitudinal crossing=""/>
+								  <lateral>
+									<left crossing=""/>
+									<right crossing=""/>
+								  </lateral>
+								</boundary>
+								<reservation id="" type=""/>								
+								<overtake permission=""/>
+								<speed max=""/>
+							</behaviorAlong>
+							<behaviorAgainst>
+								<boundary>
+								  <longitudinal crossing=""/>
+								  <lateral>
+									<left crossing=""/>
+									<right crossing=""/>
+								  </lateral>
+								</boundary>
+								<reservation id="" type=""/>
+								<overtake permission=""/>
+								<speed max=""/>
+							</behaviorAgainst>
+						</lane>
+					</right>
+					<left>
+						<lane id="1">
+							<assignLaneOpenDRIVE>
+								<linkedLane sLaneSection="0.0000000000000000e+00" id="1"/>
+							</assignLaneOpenDRIVE>
+							<behaviorAlong>
+								<boundary>
+								  <longitudinal crossing=""/>
+								  <lateral>
+									<left crossing=""/>
+									<right crossing=""/>
+								  </lateral>
+								</boundary>
+								<reservation id="" type=""/>
+								<overtake permission=""/>
+								<speed max=""/>
+							</behaviorAlong>
+							<behaviorAgainst>
+								<boundary>
+								  <longitudinal crossing=""/>
+								  <lateral>
+									<left crossing=""/>
+									<right crossing=""/>
+								  </lateral>
+								</boundary>
+								<reservation id="" type=""/>
+								<overtake permission=""/>
+								<speed max=""/>
+							</behaviorAgainst>
+						</lane>
+					</left>
+				</segment>
+			</userData>
+			<userData code="test" value="test_element"/>
+        </lanes>
+    </road>
+    <road name="Road 1" length="3.5717048645019531e+1" id="1" junction="-1">
+        <link>
+            <predecessor elementType="road" elementId="0" contactPoint="end"/>
+        </link>
+        <type s="0.0000000000000000e+0" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+0" x="-3.5717048645019531e+1" y="3.0139999389648438e+1" hdg="0.0000000000000000e+0" length="3.5717048645019531e+1">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <elevation s="5.9599999999999991e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <elevation s="1.7859999999999999e+1" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <elevation s="2.9759999999999998e+1" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="-4.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="-3.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="-3.0616900904347162e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="3.0622850446897232e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="3.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="3.5717048645019531e+1" t="-4.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="3.5717048645019531e+1" t="-3.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="3.5717048645019531e+1" t="-3.0616900904347162e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="3.5717048645019531e+1" t="3.0622850446897232e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="3.5717048645019531e+1" t="3.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <laneSection s="0.0000000000000000e+0" singleSide="false">
+                <left>
+                    <lane id="1" type="driving" level="false">
+                        <link>
+                            <predecessor id="1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+0" a="3.5000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="none" material="standard" color="white" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+0" max="4.0000000000000000e+1" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+0" laneId="{5c98aab5-903d-4314-8f5b-ef27d653df4d}" travelDir="backward">
+                                <predecessor id="1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>					
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <link>
+                            <predecessor id="-1"/>
+                        </link>
+                        <width sOffset="0.0000000000000000e+0" a="3.5000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="none" material="standard" color="white" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+0" max="4.0000000000000000e+1" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+0" laneId="{e2726739-7467-4c27-a201-0a4e2eedaef0}" travelDir="forward">
+                                <predecessor id="-1" virtual="false"/>
+                            </vectorLane>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="1"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+			<userData code="BSSD" value="BSSD_segments">
+				<segment sStart="0.0000000000000000e+00"> 
+					<right>
+						<lane id="-1">
+							<assignLaneOpenDRIVE>
+								<linkedLane sLaneSection="0.0000000000000000e+00" id="-1"/>
+							</assignLaneOpenDRIVE>
+							<behaviorAlong>
+								<boundary>
+								  <longitudinal crossing=""/>
+								  <lateral>
+									<left crossing=""/>
+									<right crossing=""/>
+								  </lateral>
+								</boundary>
+								<reservation id="" type=""/>
+								<overtake permission=""/>
+								<speed max=""/>
+							</behaviorAlong>
+							<behaviorAgainst>
+								<boundary>
+								  <longitudinal crossing=""/>
+								  <lateral>
+									<left crossing=""/>
+									<right crossing=""/>
+								  </lateral>
+								</boundary>
+								<reservation id="" type=""/>
+								<overtake permission=""/>
+								<speed max=""/>
+							</behaviorAgainst>
+						</lane>
+					</right>
+					<left>
+						<lane id="1">
+							<assignLaneOpenDRIVE>
+								<linkedLane sLaneSection="0.0000000000000000e+00" id="1"/>
+							</assignLaneOpenDRIVE>
+							<behaviorAlong>
+								<boundary>
+								  <longitudinal crossing=""/>
+								  <lateral>
+									<left crossing=""/>
+									<right crossing=""/>
+								  </lateral>
+								</boundary>
+								<reservation id="" type=""/>
+								<overtake permission=""/>
+								<speed max=""/>
+							</behaviorAlong>
+							<behaviorAgainst>
+								<boundary>
+								  <longitudinal crossing=""/>
+								  <lateral>
+									<left crossing=""/>
+									<right crossing=""/>
+								  </lateral>
+								</boundary>
+								<reservation id="" type=""/>
+								<overtake permission=""/>
+								<speed max=""/>
+							</behaviorAgainst>
+						</lane>
+					</left>
+				</segment>
+			</userData>
+			<userData code="test" value="test_element"/>
+		</lanes>
+    </road>
+</OpenDRIVE>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenDRIVE>
+    <header revMajor="1" revMinor="4" name="" version="1" date="2022-02-21T09:52:17" north="5.6109998703002930e+1" south="5.1099987030029297e+0" east="1.8810000061988831e+1" west="-1.4061999511718750e+2" vendor="MathWorks">
+        <userData>
+            <vectorScene program="RoadRunner" version="R2021b Update 1 (1.3.1.9e61748a97)"/>
+        </userData>
+    </header>
+    <road name="Road 0" length="1.1942999517917633e+2" id="0" junction="-1">
+        <type s="0.0000000000000000e+0" type="town">
+            <speed max="40" unit="mph"/>
+        </type>
+        <planView>
+            <geometry s="0.0000000000000000e+0" x="-1.2061999511718750e+2" y="3.0609998703002930e+1" hdg="0.0000000000000000e+0" length="1.1942999517917633e+2">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="0.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="0.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="-6.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="-5.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="0.0000000000000000e+0" t="5.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="1.1942999517917633e+2" t="-6.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="1.1942999517917633e+2" t="-5.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <shape s="1.1942999517917633e+2" t="5.5000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="0.0000000000000000e+0" a="0.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+            <laneSection s="0.0000000000000000e+0" singleSide="false">
+                <left>
+                    <lane id="2" type="sidewalk" level="false">
+                        <width sOffset="0.0000000000000000e+0" a="2.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="none" material="standard" color="white" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+0" max="4.0000000000000000e+1" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+0" laneId="{a7c9b8e9-d1fc-4677-8a9b-e588ff1ee7e1}" travelDir="undirected"/>
+                        </userData>
+                    </lane>
+                    <lane id="1" type="driving" level="false">
+                        <width sOffset="0.0000000000000000e+0" a="3.5000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="none" material="standard" color="white" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+0" max="4.0000000000000000e+1" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+0" laneId="{55125fac-02e7-4adb-b751-12292eee2052}" travelDir="backward"/>
+                        </userData>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="none" level="false">
+                        <roadMark sOffset="0.0000000000000000e+0" type="solid solid" material="standard" color="yellow" width="1.2500000000000000e-1" laneChange="none"/>
+                        <userData/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="-1" type="driving" level="false">
+                        <width sOffset="0.0000000000000000e+0" a="3.5000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="none" material="standard" color="white" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+0" max="4.0000000000000000e+1" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+0" laneId="{df38592d-746c-478b-a116-27c8d5a749a9}" travelDir="forward"/>
+                        </userData>
+                    </lane>
+                    <lane id="-2" type="sidewalk" level="false">
+                        <width sOffset="0.0000000000000000e+0" a="2.0000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+                        <roadMark sOffset="0.0000000000000000e+0" type="none" material="standard" color="white" laneChange="none"/>
+                        <speed sOffset="0.0000000000000000e+0" max="4.0000000000000000e+1" unit="mph"/>
+                        <userData>
+                            <vectorLane sOffset="0.0000000000000000e+0" laneId="{affcbda5-69bd-4beb-b7fb-ed7cefb2e987}" travelDir="undirected"/>
+                        </userData>
+                    </lane>
+                </right>
+                <userData>
+                    <vectorLaneSection>
+                        <carriageway rightBoundary="-1" leftBoundary="1"/>
+                    </vectorLaneSection>
+                </userData>
+            </laneSection>
+        </lanes>
+        <objects>
+            <object id="2" name="Trashcan_Square02" s="1.9770618303068519e+0" t="-1.8560108274969309e+0" zOffset="4.9978843171094955e-1" hdg="-7.8539818525314331e-1" roll="1.4660768508911133e+0" pitch="-2.7401669025421143e+0" orientation="+" height="1.0288948319333904e+0" width="5.7556373390944882e-1" length="6.8642874186021907e-1">
+				<repeat distance="0.5" heightStart="1.0288948059082021e+0" heightEnd="1.0288948059082021e+0" length="2.0" s="7.0" tStart="-2.0" tEnd="-2.0" zOffsetStart="0.0" zOffsetEnd="0.0"/>
+			</object>
+			<object id="3" name="Trashcan_Square02" s="9.4972151179550242e+0" t="1.7205253601074091e+0" zOffset="8.0000000000000018e+0" hdg="1.5707963705062866e+0" roll="0.0000000000000000e+0" pitch="0.0000000000000000e+0" orientation="+" height="1.0288948059082021e+0" width="5.7556371967746989e-1" length="6.8642873073729516e-1">
+				<repeat distance="0" heightStart="1.0288948059082021e+0" heightEnd="1.0288948059082021e+0" length="2.0" s="7.0" tStart="-2.0" tEnd="-2.0" zOffsetStart="8.0" zOffsetEnd="9.0"/>
+			</object>
+			<object id="4" name="Trashcan_Square02" s="1.8220001067662054e+1" t="-7.0748161315918097e+0" zOffset="8.8817841970012523e-16" hdg="1.5707963705062866e+0" roll="0.0000000000000000e+0" pitch="0.0000000000000000e+0" orientation="+" height="1.0288948059082021e+0" width="5.7556371967746989e-1" length="6.8642873073729516e-1">
+				<repeat distance="0" heightStart="1.0288948059082021e+0" heightEnd="1.0288948059082021e+0" length="2.0" s="7.0" tStart="-7.0" tEnd="-8.0" zOffsetStart="0.0" zOffsetEnd="0.0"/>
+			</object>
+			<object id="1" name="Trashcan_Square02" s="3.5696311797642522e+1" t="-1.5823368072509894e+0" zOffset="8.8817841970012523e-16" hdg="1.5707963705062866e+0" roll="0.0000000000000000e+0" pitch="0.0000000000000000e+0" orientation="+" height="1.0288948059082021e+0" width="5.7556371967746989e-1" length="6.8642873073729516e-1">
+				<repeat distance="0" heightStart="1.0288948059082021e+0" heightEnd="1.0288948059082021e+0" length="6.8642873073729516e-1" s="7.0" tStart="-2.0" tEnd="-3.0" zOffsetStart="0.0" zOffsetEnd="0.0"/>
+			</object>
+			<object id="5" name="Trashcan_Cylinder01" s="4.2858062744140625e+1" t="1.3278446578979484e+0" zOffset="-5.8365808408566977e-8" hdg="1.5707963705062866e+0" roll="0.0000000000000000e+0" pitch="0.0000000000000000e+0" orientation="+" height="1.1918321811685428e+0" width="7.0759893881337022e-1" length="7.0759878622549288e-1"/>
+        </objects>
+    </road>
+</OpenDRIVE>
