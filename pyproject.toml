@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "opendrive-bssd-converter"
-version = "25.1"
+version = "2025.1"
 description = "Tool for the automated generation of the BSSD extension based on OpenDRIVE maps"
 readme = "README.md"
 authors = [{name = "Institute of Automotive Engineering, Technical University of Darmstadt", email = "open-source@fzd.tu-darmstadt.de"}]
